@@ -55,7 +55,7 @@
 })();
 */
 const messages = [
-    "Estas esgura?",
+    "Estas segura?",
     "Super segura??",
     "Super Ultra Mega segura?",
     "No seas mala...",
